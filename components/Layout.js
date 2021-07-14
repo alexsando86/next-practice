@@ -1,6 +1,6 @@
 import React from "react";
 import Head from "next/head";
-import Nav from "./nav";
+import Nav from "./Nav";
 
 const Layout = ({ children }) => {
 	return (
